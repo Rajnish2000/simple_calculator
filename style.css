@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+}
+
+table{
+    margin: auto;
+    margin-top: 14px;
+}
+
+button{
+    height: 35px;
+    width: 58px;
+    margin: 0.1px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: cadetblue;
+    border-radius: 15px;
+}
+
+input{
+    font-size: 20px;
+    height: 34px;
+    width: 260px;
+    border-radius: 19px;
+}
+
+.container1{
+    background-color: aliceblue;
+    padding: 18px;
+    display: inline-block;
+    box-shadow: 2px 3px 7px 0px cadetblue;
+
+}
